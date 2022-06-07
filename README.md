@@ -1,5 +1,6 @@
 # Online-Banking-System
 A net banking website with functionalities like admin/login, admin-control to open or delete or update a customer's account, customer control to make transaction/deposit and view his details. The backend or the Rest API is made in SpringBoot with MySql database whereas React is used as a frontend technology!
+
 FRONTEND----> React
 
 BACKEND-----> SpringBoot
